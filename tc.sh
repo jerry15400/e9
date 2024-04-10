@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 if [ $# -ne 3 ]; then
     echo "Usage: $0 <interface> <file.o> <1|0>"
     exit 1
